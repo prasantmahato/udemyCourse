@@ -1,0 +1,15 @@
+body{
+    color: orange;
+    background-color: whitesmoke;
+}
+li{
+    line-height: 1px;;
+    border: 2px solid royalblue;
+}
+#important{
+    color: tomato;
+    background: yellow;
+}
+.completed{
+    text-decoration: line-through;
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <h1>Login</h1>
+    <form>
+        <label>Username:
+            <input name="username" type="text" placeholder="Username">
+        </label>
+        <label>Password: 
+            <input name="password" type="password" placeholder="Password">
+        </label>
+        <input type="submit">
+    </form>
+    <br><hr><br>
+    <form>
+        <label for="username">Email:</label>
+            <input id="username" type="email" placeholder="Email" required>
+        
+        <label for="password">Password: </label>
+            <input id="password" type="password" placeholder="Password" required>
+       
+        <input type="submit">
+    </form>
+    <hr>
+    <hr>
+
+   <p>Gender:</p>
+    <form action="#">
+        <label for="male">Male</label>
+            <input name="Gender" id="male" type="radio" value="MALE">
+        <label for="female">Female</label>
+            <input name="Gender" id ="female" type="radio" value="FEMALE">
+            
+        <p>Choose Fav Color: </p>
+        <select name="color">
+            <option value="red">Red</option>
+            <option value="green">Green</option>
+            <option value="blue">Blue</option>
+        </select>
+        <br><br>
+        <p>Enter Bio: </p>
+        <textarea name="bio" rows="10" cols="50"></textarea>
+        <button>submit</button>
+    </form>
+</body>
+</html>
+

@@ -1,0 +1,15 @@
+body{
+    border: 20px solid rgb(69, 72, 75);
+    align-self: center;
+    bor
+}
+
+.container{
+ padding: 20px;
+}
+.sub{
+    border-left: solid 5px rgb(68, 71, 75);
+}
+h6{
+    color: turquoise;
+}

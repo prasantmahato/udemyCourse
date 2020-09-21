@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+p{
+    /* content width and height*/
+    width: 50%;
+    height: 50%;
+
+    /*Border*/
+    border: 2px solid blue;
+
+    /*padding*/
+    padding:30px;
+    
+    /*Margin*/
+    /*
+    margin: 50px;
+    margin-top: 20px;
+    
+    margin: 20px 40px 500px 100px;
+    
+    margin: 10px 30px 50px 80px;
+    */
+    margin: 40px;
+    
+}

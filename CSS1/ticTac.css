@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+}
+/*
+body{
+    text-align: center;
+}
+table{
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin: 50px 330px;
+}
+tr{
+    text-align: center;
+    height: 150px;
+    width: 100px;
+}
+td{
+    padding: 50px;
+    border: 3px solid black;
+    margin: 10px;
+}
+.top{
+    border-top: none ;
+}
+.top.left,.left{
+    border-left: none ;
+}
+.top.right,.right{
+    border-right:none ;
+}
+
+.bottom{
+    border-bottom: none ;
+}
+.bottom.left{
+    border-left:none ;
+}
+.bottom.right{
+    border-right:none ;
+}
+*/
+table{
+    margin: auto;
+}
+td{
+    width: 100px;
+    height: 100px;
+}
+
+.vertical{
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+}
+.horizontal{
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}

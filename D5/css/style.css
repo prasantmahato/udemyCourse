@@ -1,0 +1,120 @@
+
+/*
+Color Scheme:
+#32e0c4
+#0d7377
+#212121;
+*/
+body{
+    margin: 0;
+    text-align: center;
+    background-color: #00463d;
+    font-family: 'Neuton', serif;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-size: 4.5em;
+    font-family: 'Arizonia', cursive;
+    display: block;
+    color: #1ad1b3;
+    
+}
+h3{
+    color: #1ad1b3;
+    color: rgb(247, 189, 43);
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+p{
+    color: rgb(218, 218, 218);
+    font-size: 1.3rem;
+}
+.pro{
+    text-decoration: underline;
+}
+div.container{
+    background-color: #00463d;
+    position: relative;
+    padding-top: 8%;
+    
+}
+.cloud{
+    position: absolute;
+}
+.top{
+    top: 8%;
+    right: 12%;
+
+}
+.bottom.left{
+    left: 15%;
+    bottom: 50%;
+}
+.bottom.right{
+    right: 25%;
+    bottom: 32%;
+}
+.profile img{
+    width: 15%;
+    margin-top: 0;
+    border-radius: 600px;
+    border: solid yellow;
+    float: left;
+}
+.middle-container{
+    
+}
+.bottom-container{
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+a{
+    text-decoration: none;
+}
+
+.one .web-dev{
+    width: 25%;
+    margin: 0 auto;
+    border-radius: 100px;
+    float: left;
+    margin-right: 20px;
+}
+.two .web-dev{
+    width: 25%;
+    margin: 0 auto;
+    border-radius: 20px;
+    float: right;
+    margin: 25px 0 0 20px;
+    
+}
+/*
+.container-one{
+    height: 200px;
+    width: 200px;
+    background-color: #32e0c4;
+    position: absolute;
+    top:400px;
+    left:400px;
+}
+.container-two{
+    height: 200px;
+    width: 200px;
+    background-color: #0d7377;
+    position: absolute;
+    top:200px;
+    left:200px;
+
+}
+.container-three{
+    height: 200px;
+    width: 200px;
+    background-color: 212121;
+
+}
+*/
